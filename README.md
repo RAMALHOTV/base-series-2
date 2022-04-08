@@ -4,7 +4,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://www.ciadosdescontos.com/static/2016/01/melhores-series.jpg</thumbnail>
 <fanart>https://www.folhadaregiao.com.br/wp-content/uploads/2018/10/OK_SERIES-752x440.jpg</fanart>
-<externallink>https://pastebin.com/raw/UNNLRCEB</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/novas-series-2/main/README.md</externallink>
 </item>
 
 <item>
